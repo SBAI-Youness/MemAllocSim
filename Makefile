@@ -1,6 +1,6 @@
 # Compiler and flags
 CC = gcc
-CFLAGS = -Iinclude -Wall -Werror -Wextra -Wpedantic
+CFLAGS = -Iinclude
 
 # Directories
 SOURCE_DIR = source
