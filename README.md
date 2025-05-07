@@ -64,7 +64,7 @@ The simulator accepts several command-line parameters:
 
 ## Tests
 To run the unit tests:
-```shell
+```bash
 make test
 ```
 
